@@ -7,7 +7,6 @@ import streamlit as st
 from skillNer.general_params import SKILL_DB
 # import skill extractor
 from skillNer.skill_extractor_class import SkillExtractor
-from IPython.display import display, HTML
 
 st.title('Resume Skill Extraction')
 st.text('Made by Akhilesh Sivaganesan')
